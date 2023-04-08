@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class loops {
     public static void main(String[] args) {
 
@@ -42,11 +44,60 @@ public class loops {
         }
         while(conddion);
          */
-    int n=1;
-    do {
-        System.out.println(n);
-        n++;
-    }
-while (n<=5);
+//    int n=1;
+//    do {
+//        System.out.println(n);
+//        n++;
+//    }
+//while (n<=5);
+
+        // gretest number among three
+
+//        System.out.print("Enter the number num1 = ");
+//        Scanner input = new Scanner(System.in);
+//        int num1 = input.nextInt();
+//        System.out.print("Enter the number num2 = ");
+//        int num2 = input.nextInt();
+//        System.out.print("Enter the num3 = ");
+//        int num3 = input.nextInt();
+//
+//        if (num1>num2 && num1>num3){
+//            System.out.print("greatest number is num1 = "+num1);
+//        }
+//        else if (num2>num1 && num2>num3){
+//            System.out.print("greatest number is num2 = "+num2);
+//        }
+//        else {
+//            System.out.println("greatest number is num1 = "+num1);
+//        }
+
+
+        // gretest number among two
+
+//    int max= Math.max(34,57);
+//        System.out.println(max);
+
+
+
+        // gretest number among three
+
+        System.out.print("Enter the number num1 = ");
+        Scanner input = new Scanner(System.in);
+        int num1 = input.nextInt();
+        System.out.print("Enter the number num2 = ");
+        int num2 = input.nextInt();
+        System.out.print("Enter the num3 = ");
+        int num3 = input.nextInt();
+
+        int max = Math.max(num1,Math.max(num2,num3));
+
+        System.out.println("greatest number is : "+max);
+    
+
+
+
+
+
+
     }
 }
