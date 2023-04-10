@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c8651bb-a097-4d4e-994e-f87ef20d7c1d" name="Changes" comment="fi else condition &#10;nested if and loops">
+    <list default="true" id="7c8651bb-a097-4d4e-994e-f87ef20d7c1d" name="Changes" comment="questions on loops">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops.java" afterDir="false" />
     </list>
@@ -87,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680939522682</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="questions on loops">
+      <created>1680950298396</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680950298396</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,7 +112,8 @@
     <MESSAGE value="sum program" />
     <MESSAGE value="type casting type convertion &#10;automatic type promotion in expression&#10;unicode value's" />
     <MESSAGE value="fi else condition &#10;nested if and loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="fi else condition &#10;nested if and loops" />
+    <MESSAGE value="questions on loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="questions on loops" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

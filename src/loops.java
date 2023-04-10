@@ -81,20 +81,24 @@ public class loops {
 
         // gretest number among three
 
-        System.out.print("Enter the number num1 = ");
-        Scanner input = new Scanner(System.in);
-        int num1 = input.nextInt();
-        System.out.print("Enter the number num2 = ");
-        int num2 = input.nextInt();
-        System.out.print("Enter the num3 = ");
-        int num3 = input.nextInt();
+//        System.out.print("Enter the number num1 = ");
+//        Scanner input = new Scanner(System.in);
+//        int num1 = input.nextInt();
+//        System.out.print("Enter the number num2 = ");
+//        int num2 = input.nextInt();
+//        System.out.print("Enter the num3 = ");
+//        int num3 = input.nextInt();
+//
+//        int max = Math.max(num1,Math.max(num2,num3));
+//
+//        System.out.println("greatest number is : "+max);
+//
 
-        int max = Math.max(num1,Math.max(num2,num3));
-
-        System.out.println("greatest number is : "+max);
-    
+// Q:which is upper and lower case letter;
 
 
+
+        
 
 
 
