@@ -83,7 +83,7 @@ public class loops {
 
 //        System.out.print("Enter the number num1 = ");
 //        Scanner input = new Scanner(System.in);
-//        int num1 = input.nextInt();
+//        int num1 = input.nextInt();n
 //        System.out.print("Enter the number num2 = ");
 //        int num2 = input.nextInt();
 //        System.out.print("Enter the num3 = ");
@@ -95,10 +95,19 @@ public class loops {
 //
 
 // Q:which is upper and lower case letter;
-
-
-
+//        System.out.println("Here we will just calculate the");
+//        System.out.print("Enter any char:");
+//Scanner input = new Scanner(System.in);
+//char ch = input.next().trim().charAt(0);
+//if(ch>= 'a' && ch<='z' ){
+//            System.out.println("Charecter is of lower-case");
+//        }
+//else {
+//    System.out.println("Chareecter is of upper case");
+//}
         
+
+
 
 
 
